@@ -10,11 +10,11 @@ The following table shows links to different projects which forked AtomicDEX-Des
 
 | Source     | Version | Release link | UnBlocked |
 | ----------- | ----------- | ----------- | ----------- |
-| [Komodo Platform](https://komodoplatform.com/)      | v0.5.3 beta       | [Link](https://github.com/KomodoPlatform/atomicDEX-Desktop/releases/tag/0.5.3-beta)       | ❌       |
-| [Marmara Chain](https://marmara.io/)      | v0.5.2 stable beta       | [Link](https://github.com/marmarachain/atomicDEX-Desktop/releases/tag/0.5.2-beta)       | ✅       |
-| [SmartFi](https://smartfi.com/)      | SmartDEX 0.5.3 beta       | [Link](https://github.com/pbcllc/SmartDEX-Desktop/releases/tag/0.5.3-beta)       | ✅       |
-| [Gleec](https://gleec.com/)      | GleecDEX Beta release v0.5.2       | [Link](https://github.com/GLEECBTC/GleecDEX-Desktop/releases/tag/0.5.2-beta)       | ✅       |
-| [BitcoinZ](https://btcz.rocks/)      | BitcoinZ DEX Desktop v5.3.0       | [Link](https://github.com/btcz/atomicDEX-Desktop/releases/tag/BitcoinZ-DEXv0.5.3-beta)       | ✅       |
+| [Komodo Platform](https://komodoplatform.com/)      | v0.5.3 beta       | [Link](https://github.com/KomodoPlatform/atomicDEX-Desktop/releases)       | ❌       |
+| [Marmara Chain](https://marmara.io/)      | v0.5.2 stable beta       | [Link](https://github.com/marmarachain/atomicDEX-Desktop/releases)       | ✅       |
+| [SmartFi](https://smartfi.com/)      | SmartDEX 0.5.3 beta       | [Link](https://github.com/pbcllc/SmartDEX-Desktop/releases)       | ✅       |
+| [Gleec](https://gleec.com/)      | GleecDEX Beta release v0.5.2       | [Link](https://github.com/GLEECBTC/GleecDEX-Desktop/releases)       | ✅       |
+| [BitcoinZ](https://btcz.rocks/)      | BitcoinZ DEX Desktop v5.3.0       | [Link](https://github.com/btcz/atomicDEX-Desktop/releases)       | ✅       |
 | [DogeDEX](https://dogedex.xyz/)      | DogeDEX v0.4.2       | [Link](https://dogedex.xyz/)       | ✅       |
 
 
