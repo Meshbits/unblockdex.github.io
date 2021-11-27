@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome to UnblockDEX
 
-You can use the [editor on GitHub](https://github.com/Meshbits/unblockdex.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+AtomicDEX is a secure wallet and non-custodial decentralized exchange rolled into one application. You can learn about AtomicDEX on [https://atomicdex.io](https://atomicdex.io).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The official AtomicDEX application is geo-blocked in several countries, like US. But there are community forks (copies) of AtomicDEX application which are not geoblocked, and can be used all over the world without any restrictions. These non-geoblocked forks of AtomicDEX are all using the same decentralised exchange network and share the same orderbooks and liquidity. The only few differences you will notice is these different forks have default coins activated for their own projects instead of KMD etc. and some graphical theme changes. So, you can download any of the forks of AtomicDEX which doesn't has any geo-blocking and freely trade your cryptocurrencies on a truely decentralised exchange.
 
-### Markdown
+### Download links
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The following table shows links to different projects which forked AtomicDEX-Desktop and release their own version without geo-blocking:
 
-```markdown
-Syntax highlighted code block
+| Project     | Version | Release link | Geo-Blocked |
+| ----------- | ----------- | ----------- | ----------- |
+| Komodo Platform      | v0.5.3 beta       | [Link](https://github.com/KomodoPlatform/atomicDEX-Desktop/releases/tag/0.5.3-beta)       | YES       |
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Meshbits/unblockdex.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
