@@ -8,7 +8,12 @@ The official AtomicDEX application is geo-blocked in several countries, like US.
 
 The following table shows links to different projects which forked AtomicDEX-Desktop and release their own version without geo-blocking:
 
-| Project     | Version | Release link | Geo-Blocked |
+| Source     | Version | Release link | Geo-Blocked |
 | ----------- | ----------- | ----------- | ----------- |
-| Komodo Platform      | v0.5.3 beta       | [Link](https://github.com/KomodoPlatform/atomicDEX-Desktop/releases/tag/0.5.3-beta)       | YES       |
+| [Komodo Platform](https://komodoplatform.com/)      | v0.5.3 beta       | [Link](https://github.com/KomodoPlatform/atomicDEX-Desktop/releases/tag/0.5.3-beta)       | YES       |
+| [Marmara Chain](https://marmara.io/)      | v0.5.2 stable beta       | [Link](https://github.com/marmarachain/atomicDEX-Desktop/releases/tag/0.5.2-beta)       | NO       |
+| [SmartFi](https://smartfi.com/)      | SmartDEX 0.5.3 beta       | [Link](https://github.com/pbcllc/SmartDEX-Desktop/releases/tag/0.5.3-beta)       | NO       |
+| [Gleec](https://gleec.com/)      | GleecDEX Beta release v0.5.2       | [Link](https://github.com/GLEECBTC/GleecDEX-Desktop/releases/tag/0.5.2-beta)       | NO       |
+| [BitcoinZ](https://btcz.rocks/)      | BitcoinZ DEX Desktop v5.3.0       | [Link](https://github.com/btcz/atomicDEX-Desktop/releases/tag/BitcoinZ-DEXv0.5.3-beta)       | NO       |
+
 
