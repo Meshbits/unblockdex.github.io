@@ -15,5 +15,6 @@ The following table shows links to different projects which forked AtomicDEX-Des
 | [SmartFi](https://smartfi.com/)      | SmartDEX 0.5.3 beta       | [Link](https://github.com/pbcllc/SmartDEX-Desktop/releases/tag/0.5.3-beta)       | ✅       |
 | [Gleec](https://gleec.com/)      | GleecDEX Beta release v0.5.2       | [Link](https://github.com/GLEECBTC/GleecDEX-Desktop/releases/tag/0.5.2-beta)       | ✅       |
 | [BitcoinZ](https://btcz.rocks/)      | BitcoinZ DEX Desktop v5.3.0       | [Link](https://github.com/btcz/atomicDEX-Desktop/releases/tag/BitcoinZ-DEXv0.5.3-beta)       | ✅       |
+| [DogeDEX](https://dogedex.xyz/)      | DogeDEX v0.4.2       | [Link](https://dogedex.xyz/)       | ✅       |
 
 
