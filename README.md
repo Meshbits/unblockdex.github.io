@@ -10,8 +10,8 @@ The following table shows links to different projects which forked AtomicDEX-Des
 
 | Source     | Version | Release link | UnBlocked |
 | ----------- | ----------- | ----------- | ----------- |
-| [Komodo Platform](https://komodoplatform.com/)      | v0.5.4 beta       | [Link](https://github.com/KomodoPlatform/atomicDEX-Desktop/releases)       | ❌       |
-| [Komodian](https://komodian.org/) | AtomicDEX-Desktop v0.5.4-beta-290 Community Edition | [Link](https://github.com/Komodian/atomicDEX-Desktop/releases) | ✅ |
+| [Komodo Platform](https://komodoplatform.com/)      | v0.5.5 beta       | [Link](https://github.com/KomodoPlatform/atomicDEX-Desktop/releases)       | ❌       |
+| [Komodian](https://komodian.org/) | AtomicDEX-Desktop v0.5.5-beta Community Edition | [Link](https://github.com/Komodian/atomicDEX-Desktop/releases) | ✅ |
 | [Marmara Chain](https://marmara.io/)      | v0.5.2 stable beta       | [Link](https://github.com/marmarachain/atomicDEX-Desktop/releases)       | ✅       |
 | [SmartFi](https://smartfi.com/)      | SmartDEX 0.5.3 beta       | [Link](https://github.com/pbcllc/SmartDEX-Desktop/releases)       | ✅       |
 | [Gleec](https://gleec.com/)      | GleecDEX Beta release v0.5.2       | [Link](https://github.com/GLEECBTC/GleecDEX-Desktop/releases)       | ✅       |
